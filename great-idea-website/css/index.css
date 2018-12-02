@@ -64,3 +64,165 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* BODY */
+body {
+	width: 880px;
+	margin: 0 auto;
+
+	/* border: 1px solid;
+	border-color: black */
+}
+
+/* NAV BAR */
+
+.container-nav {
+
+	/* border: 1px solid;
+	border-color: black */
+}
+
+.container-nav nav {
+	display: inline-block;
+	padding: 20px 0px 20px 0px;
+
+	vertical-align: middle;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+.container-nav nav a {
+	margin-right: 61px;
+	padding-bottom: 15px;
+}
+
+.logo {
+	display: inline-block;
+
+	vertical-align: middle;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+/* HEADER */
+
+.container-header {
+	display: block;
+	text-align: center;
+
+	padding: 40px 0px 40px 0px;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+.container-header-left {
+	display: inline-block;
+	width: 55%;
+	padding: 20px;
+
+	vertical-align: middle;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+.container-header-left h1 {
+	font-size: 60px;
+}
+
+.container-header-left p {
+	display: inline;
+	padding: 0px 20px 0px 20px; 
+
+	border: 1px solid;
+	border-color: black;
+}
+
+.img1 {
+	display: inline-block;
+
+	vertical-align: middle;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+/* CONTENT 1 */
+
+.content-1-left {
+	display: inline-block;
+	width: 49%;
+	margin-right: 5px;
+	margin-top: 20px;
+	margin-bottom: 30px;	
+
+	/* border: 1px solid;
+	border-color: black;	 */
+}
+
+.content-1-right {
+	display: inline-block;
+	width: 50%;
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+/* Image 2 */
+
+/* CONTENT 2 */
+
+.content-2-left {
+	display:inline-block;
+	width: 33%;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+.content-2-middle {
+	display:inline-block;
+	width: 33%;
+	margin-top: 30px;
+	margin-bottom: 20px;
+
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+.content-2-right {
+	display:inline-block;
+	width: 33%;
+	margin-top: 30px;
+	margin-bottom: 20px;
+		
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+/* ADDRESS */
+footer address {
+	margin-top: 20px;
+	/* border: 1px solid;
+	border-color: black; */
+}
+
+/* LEGAL */
+
+.legal {
+	display: block;
+	text-align: center;
+
+	margin-bottom: 75px;
+
+	/* border: 1px solid;
+	border-color: black; */
+
+}
